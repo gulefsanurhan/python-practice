@@ -1,2 +1,2 @@
 # python-practice
-Basic Python practice and setup files
+This repo contains small examples I wrote to reinforce Python fundamentals.
