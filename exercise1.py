@@ -1,3 +1,4 @@
+#Age calculation
 name = input("Name: ")
 year_of_birth = input("Year of birth: ")
 year = input("Current year: ")
